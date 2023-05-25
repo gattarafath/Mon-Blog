@@ -1,0 +1,47 @@
+
+body{
+    background-color: darkgoldenrod;
+    margin: 0;
+    
+}
+.body-head{
+    background-color: aliceblue;
+}
+
+nav{
+   
+    height: 80px;
+}
+.image{
+    padding-top: 0%;
+}
+ul{
+    background-color: aliceblue;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+}
+li a{
+    color: rgb(9, 10, 10);
+    text-decoration: none;
+    padding: 20px;
+    
+}
+li{
+    float: left;
+    font-size: x-large;
+}
+.nav-droit,.nav-right{
+    float: right;
+   padding-top: 2%;
+    padding-right: 2%;
+}
+footer{
+    text-align: center;
+    padding-top: 10%;
+}
+h1{
+    text-align: center;
+    padding-top: 20%;
+    
+}

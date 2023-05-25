@@ -1,0 +1,60 @@
+.body{
+   
+    display: flex;
+    flex-direction: row;
+    
+}
+fieldset{
+   background-color: white;
+    height: 450px;
+    box-sizing: border-box;
+   border-radius: 5%;
+   margin-left: 15%;
+    margin-right: 15%;
+}
+h2{
+    text-align: center;
+}
+fieldset a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    margin: 0;
+    background-color: darkgoldenrod;
+}
+.body-head{
+    background-color: white;
+}
+nav{
+   
+    height: 80px;
+}
+.image{
+    padding-top: 0%;
+}
+ul{
+    
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+}
+li a{
+    color: rgb(9, 10, 10);
+    text-decoration: none;
+    padding: 20px;
+    
+}
+li{
+    float: left;
+    font-size: x-large;
+}
+.nav-droit,.nav-right{
+    float: right;
+    padding-top: 2%;
+    padding-right: 2%;
+}
+footer{
+    text-align: center;
+    padding-top: 7%;
+}
